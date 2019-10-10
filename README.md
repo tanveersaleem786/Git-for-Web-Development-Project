@@ -1,3 +1,4 @@
+Tanveer Saleem
 # Git for Web Development Project
 In this project you will be using the concepts learned in the Git for Web Development lesson to fork/clone/push/and submit a PR for each project during this sprint.
 
@@ -40,5 +41,9 @@ In order to do this, you **do not** need to create new forks of these projects. 
 - [ ] Research and set up a Graphical User Interface (GUI) Git console. 
 
 - [ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
+
+## Git GUI
+I setup a git GUI. 
+https://www.atlassian.com/git/tutorials/git-bash
 
 
